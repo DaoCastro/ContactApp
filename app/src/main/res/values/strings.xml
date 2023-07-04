@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="title_main_screen">Contactos</string>
+    <string name="title_contact_detail_screen">Detalle Contacto</string>
+    <string name="title_section_emails">Correos</string>
+    <string name="title_section_phones">Telefonos</string>
+</resources>
